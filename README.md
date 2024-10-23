@@ -1,15 +1,29 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Cristian Mestra 
 
-CmestraR/CmestraR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador junior con experiencia en **Python** y **JavaScript**. También me apasiona el análisis de datos, con habilidades intermedias en **Power BI** y **Excel**. Me especializo en resolver problemas de manera eficiente y he trabajado en proyectos enfocados en el área comercial. Además, poseo habilidades de liderazgo y trabajo en equipo, lo que me permite guiar proyectos y alcanzar objetivos de manera efectiva.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 **Tecnologías y Habilidades:**
+
+- **Lenguajes:** Python, JavaScript
+- **Herramientas de Datos:** Power BI, Excel
+- **Otras Habilidades:** Liderazgo, Resolución de problemas, Desarrollo de proyectos comerciales
+
+---
+
+## 🌐 **Encuéntrame en:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tu-usuario)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
+[![Correo](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email)
+
+---
+
+## 📊 **Estadísticas de GitHub:**
+
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+
+
+¡No dudes en ponerte en contacto conmigo si estás interesado en colaborar o si tienes alguna pregunta!
