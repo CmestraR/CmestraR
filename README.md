@@ -27,4 +27,3 @@ Soy un desarrollador junior con experiencia en **Python** y **JavaScript**. Tamb
 
 ---
 
-dev
