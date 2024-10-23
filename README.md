@@ -14,16 +14,16 @@ Soy un desarrollador junior con experiencia en **Python** y **JavaScript**. Tamb
 
 ## 🌐 **Encuéntrame en:**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tu-usuario)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
-[![Correo](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/cristian-david-mestra-de-la-rosa-8895712b2/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/tu-usuario](https://www.instagram.com/cristian_mr17/))
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/tu-usuario](https://github.com/CmestraR))
+[![Correo](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristianmestradelarosa@gamil.com)
 
 ---
 
 ## 📊 **Estadísticas de GitHub:**
 
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=CmestraR&show_icons=true&theme=radical)
 
 
 ¡No dudes en ponerte en contacto conmigo si estás interesado en colaborar o si tienes alguna pregunta!
