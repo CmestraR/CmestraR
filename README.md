@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Cristian Mestra 
 
-Soy un desarrollador junior con experiencia en **Python** y **JavaScript**. También me apasiona el análisis de datos, con habilidades intermedias en **Power BI** y **Excel**. Me especializo en resolver problemas de manera eficiente y he trabajado en proyectos enfocados en el área comercial. Además, poseo habilidades de liderazgo y trabajo en equipo, lo que me permite guiar proyectos y alcanzar objetivos de manera efectiva.
+Soy un desarrollador junior con experiencia en **Python** y **JavaScript**. También me apasiona el análisis de datos, con habilidades intermedias en **Power BI** y **Excel**, al igual que tengo conocimientos tecnicos y administrativos en Odoo v16 como en manejo de plataformas de Ecommerce. Me especializo en resolver problemas de manera eficiente y he trabajado en proyectos enfocados en el área comercial, administrativa y de inventarios. Además, poseo habilidades de liderazgo y trabajo en equipo, lo que me permite guiar proyectos y alcanzar objetivos de manera efectiva.
 
 ---
 
@@ -8,7 +8,8 @@ Soy un desarrollador junior con experiencia en **Python** y **JavaScript**. Tamb
 
 - **Lenguajes:** Python, JavaScript
 - **Herramientas de Datos:** Power BI, Excel
-- **Otras Habilidades:** Liderazgo, Resolución de problemas, Desarrollo de proyectos comerciales
+- **ERP de gestión empresarial:** Odoo
+- **Otras Habilidades:** Liderazgo, Resolución de problemas, Desarrollo y gestión de proyectos
 
 ---
 
